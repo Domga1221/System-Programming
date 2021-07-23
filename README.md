@@ -5,4 +5,4 @@
 - use system library 
 - multithreading 
 
-Client was provided by my university, it is located in the client folder, alongside with another provided server implementation
+Client was provided by my university
